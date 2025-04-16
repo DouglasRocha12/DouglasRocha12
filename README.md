@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou um Analista de Sistemas e Desenvolvedor apaixonado por tecnologia e boas práticas de desenvolvimento.
+Sou Analista de Sistemas e Desenvolvedor, movido por café, tecnologia e boas práticas de código.
 
 ## 💻 Tecnologias que trabalho
 - Linguagens: PHP, Java, Node.js

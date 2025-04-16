@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# PHP/Laravel
+/vendor
+.env
+.phpunit.result.cache
+/storage/*.key
+
+# Mac / Linux
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+.vscode/
